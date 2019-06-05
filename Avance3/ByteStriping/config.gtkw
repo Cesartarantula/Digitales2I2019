@@ -1,0 +1,47 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed Jun  5 19:20:38 2019
+[*]
+[dumpfile] "/home/cesar/Desktop/DigitalesII/Proyecto1/Codigo/Avance3/Byte/Nuevo/ByteStriping.vcd"
+[dumpfile_mtime] "Wed Jun  5 19:17:17 2019"
+[dumpfile_size] 82406
+[savefile] "/home/cesar/Desktop/DigitalesII/Proyecto1/Codigo/Avance3/Byte/Nuevo/config.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-16.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Test_Bench.
+[sst_width] 196
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 155
+@200
+-GenClock
+@28
+Test_Bench.CG.clk8f
+Test_Bench.CG.clk2f
+Test_Bench.CG.clkf
+Test_Bench.CG.reset_L
+@200
+-Probador
+@28
+Test_Bench.PByte.clk8f
+Test_Bench.PByte.clk2f
+Test_Bench.PByte.clkf
+Test_Bench.PByte.reset_L
+@22
+Test_Bench.PByte.datain0[8:0]
+@200
+-ByteStriping
+@28
+Test_Bench.BS.reset_L
+Test_Bench.BS.clk2f
+Test_Bench.BS.selectorL1
+Test_Bench.BS.clkf
+@22
+Test_Bench.BS.datain0[8:0]
+Test_Bench.BS.lane0[8:0]
+@23
+Test_Bench.BS.lane1[8:0]
+[pattern_trace] 1
+[pattern_trace] 0
