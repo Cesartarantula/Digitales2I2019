@@ -1,0 +1,58 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed May 29 19:46:35 2019
+[*]
+[dumpfile] "/home/cesar/Desktop/DigitalesII/Proyecto1/Codigo/Avance1/Paralelo-Serial/ParaleloSerial.vcd"
+[dumpfile_mtime] "Wed May 29 19:26:44 2019"
+[dumpfile_size] 24846
+[savefile] "/home/cesar/Desktop/DigitalesII/Proyecto1/Codigo/Avance1/Paralelo-Serial/config.gtkw"
+[timestart] 0
+[size] 1280 751
+[pos] -1 -1
+*-30.555645 142000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Test_Bench.
+[sst_width] 327
+[signals_width] 230
+[sst_expanded] 1
+[sst_vpaned_height] 318
+@200
+-ClkGen
+@28
+Test_Bench.ClkGen.clk8f
+Test_Bench.ClkGen.clkf
+Test_Bench.ClkGen.clk2f
+Test_Bench.ClkGen.counter1
+Test_Bench.ClkGen.counter2[1:0]
+Test_Bench.ClkGen.reset_L
+@200
+-Probador
+@28
+Test_Bench.PS_Probador.clk8f
+Test_Bench.PS_Probador.clkf
+Test_Bench.PS_Probador.reset
+Test_Bench.PS_Probador.reset_L
+Test_Bench.PS_Probador.serialcond
+Test_Bench.PS_Probador.serialest
+@200
+-PSConductual
+@22
+Test_Bench.PSConductual.counterdata[3:0]
+@28
+Test_Bench.PSConductual.counterbc[1:0]
+@22
+[color] 3
+Test_Bench.PSConductual.paralelo[8:0]
+@28
+Test_Bench.PSConductual.serial
+@200
+-PSEstructural
+@22
+Test_Bench.PSEstructural.counterdata[3:0]
+@28
+Test_Bench.PSEstructural.counterbc[1:0]
+Test_Bench.PSEstructural.serial
+@22
+[color] 3
+Test_Bench.PSEstructural.paralelo[8:0]
+[pattern_trace] 1
+[pattern_trace] 0
