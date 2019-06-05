@@ -1,0 +1,65 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed May 29 20:26:40 2019
+[*]
+[dumpfile] "/home/cesar/Desktop/DigitalesII/Proyecto1/Codigo/Avance2/Serial-ParaleloB/SerialParalelo.vcd"
+[dumpfile_mtime] "Wed May 29 20:25:42 2019"
+[dumpfile_size] 28599
+[savefile] "/home/cesar/Desktop/DigitalesII/Proyecto1/Codigo/Avance2/Serial-ParaleloB/config.gtkw"
+[timestart] 0
+[size] 1280 751
+[pos] -1 -1
+*-31.663151 7050000000 450000000 850000000 1250000000 1650000000 2050000000 2452000000 2850000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Test_Bench.
+[sst_width] 327
+[signals_width] 262
+[sst_expanded] 1
+[sst_vpaned_height] 320
+@200
+-Generador de Reloj
+@29
+Test_Bench.ClkGen.reset_L
+@28
+Test_Bench.ClkGen.clk8f
+Test_Bench.ClkGen.clk2f
+Test_Bench.ClkGen.clkf
+@200
+-Probador
+@28
+Test_Bench.PS_Probador.reset
+Test_Bench.PS_Probador.reset_L
+@22
+Test_Bench.PS_Probador.paralelo[8:0]
+Test_Bench.PS_Probador.serial[8:0]
+Test_Bench.PS_Probador.spEst[8:0]
+@28
+Test_Bench.PS_Probador.serialcond
+@200
+-ParaleloSerial
+@28
+Test_Bench.PSConductual.reset_L
+Test_Bench.ClkGen.clk8f
+Test_Bench.ClkGen.clk2f
+@22
+[color] 2
+Test_Bench.PSConductual.paralelo[8:0]
+@28
+Test_Bench.PSConductual.serial
+@200
+-SerialParalelo
+@28
+Test_Bench.SPConductual.reset8
+Test_Bench.SPConductual.serial
+@22
+Test_Bench.SPConductual.paralelo[7:0]
+Test_Bench.SPConductual.outParalelo[8:0]
+@200
+-EstructuralSerialParalelo
+@28
+Test_Bench.SPEstructural.reset8
+Test_Bench.SPEstructural.serial
+@22
+Test_Bench.SPEstructural.paralelo[7:0]
+Test_Bench.SPEstructural.outParalelo[8:0]
+[pattern_trace] 1
+[pattern_trace] 0
