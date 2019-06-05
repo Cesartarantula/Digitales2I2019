@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed May 15 22:22:01 2019
+[*]
+[dumpfile] "/home/cesar/Desktop/DigitalesII/Proyecto1/Codigo/Avance1/ClockGenerator/ClkGen.vcd"
+[dumpfile_mtime] "Wed May 15 22:20:35 2019"
+[dumpfile_size] 11078
+[savefile] "/home/cesar/Desktop/DigitalesII/Proyecto1/Codigo/Avance1/ClockGenerator/config.gtkw"
+[timestart] 0
+[size] 1280 751
+[pos] -1 -1
+*-15.390669 35800 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Test_Bench.
+[sst_width] 327
+[signals_width] 140
+[sst_expanded] 1
+[sst_vpaned_height] 282
+@28
+[color] 4
+Test_Bench.CG_Probador.reset_L
+Test_Bench.CG.clk8f
+@200
+-Conductual
+@28
+[color] 3
+Test_Bench.CG_Probador.clk2f
+[color] 3
+Test_Bench.CG_Probador.clkf
+@200
+-Estructural
+@28
+[color] 1
+Test_Bench.CGEst.clk2f
+@29
+[color] 1
+Test_Bench.CGEst.clkf
+[pattern_trace] 1
+[pattern_trace] 0
